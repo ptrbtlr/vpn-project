@@ -1,3 +1,21 @@
+# Live Site
+This site is hosted on Vercel, [here.](https://vpn-project-umber.vercel.app/)
+<p align="center">
+  <img src="https://i.ibb.co/VJ5TcGT/Screen-Shot-2022-06-13-at-15-36-41.png" width="350">
+</p>
+
+# Project - VPN Business Site
+This project was created with:
+
+[React JS](https://reactjs.org/)
+
+[Tailwind](https://tailwindcss.com/docs/guides/create-react-app) - [CSS Grid](https://learncssgrid.com/) & [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+
+[React Icons](https://react-icons.github.io/react-icons/)
+
+[React-Typed (NPM Package)](https://www.npmjs.com/package/react-typed)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
