@@ -1,4 +1,5 @@
 import Cards from "./components/Cards";
+import Footer from "./components/Footer";
 import Hero from "./components/Hero";
 import Info from "./components/Info";
 import Navbar from "./components/Navbar";
@@ -13,6 +14,7 @@ function App() {
       <Info/>
       <Newsletter/>
       <Cards/>
+      <Footer/>
     </div>
   );
 }
