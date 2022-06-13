@@ -14,7 +14,7 @@ const Info = () => {
             Our newest feature protects you from ads, trackers, and malware
           </h1>
           <p className="">
-            Take your cybersecurity to the next level with NordVPN’s Threat
+            Take your cybersecurity to the next level with VPN Max’s Threat
             Protection feature. You don’t need to connect to a VPN server for it
             to work. Once you enable it in the settings, Threat Protection will
             always make your browsing safer, faster, and smoother without
